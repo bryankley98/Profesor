@@ -15,7 +15,7 @@
         "ciudad":"Manta",
         "biografia":"Ecuador",
         "nombre":"Eduardo",
-        "apellido": "Mauriri",
+        "apellido": "Mauriri"
     },
      {
      "id": 2,
@@ -23,7 +23,7 @@
         "ciudad":"Portoviejo",
         "biografia":"Ecuador",
         "nombre":"Ricky",
-        "apellido": "Pinargote",
+        "apellido": "Pinargote"
     }
 ]
 }
