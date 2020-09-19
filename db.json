@@ -10,16 +10,14 @@
   },
   "profesor": [
     {
-        "id": 1,
-        "cedula":131203232,
+        "cedula":"131203232",
         "ciudad":"Manta",
         "biografia":"Ecuador",
         "nombre":"Eduardo",
         "apellido": "Mauriri"
     },
      {
-     "id": 2,
-        "cedula":135206222,
+        "cedula":"135206222",
         "ciudad":"Portoviejo",
         "biografia":"Ecuador",
         "nombre":"Ricky",
